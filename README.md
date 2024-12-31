@@ -95,8 +95,8 @@ Certain categories, such as "Apparel" and "Nest-USA," showed consistent sales th
 
 
 
-* General Metrics
---
+### General Metrics
+---
 ##### Count of Gender (2):
 Dataset contains a balanced representation of male and female customers.
 
