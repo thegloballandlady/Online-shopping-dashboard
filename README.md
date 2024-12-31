@@ -146,14 +146,21 @@ Dataset contains a balanced representation of male and female customers.
 * Explore correlations between delivery charges and customer satisfaction metrics.
 
 
+### Data Visualization
+---
+
+![o1](https://github.com/user-attachments/assets/78d3b471-c7c3-459b-978a-201b21bb214f)
 
 
 
+![o2](https://github.com/user-attachments/assets/1d0d6bdb-dd3e-4449-ab1d-4f77916ab115)
 
 
 
+![o3](https://github.com/user-attachments/assets/fe790d2a-a639-4ef2-8459-8531b8f012f3)
 
 
+![o4](https://github.com/user-attachments/assets/aea1ce38-7ecd-4be0-9b81-089c23cb9eb7)
 
 
 
