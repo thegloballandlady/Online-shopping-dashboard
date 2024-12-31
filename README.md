@@ -95,12 +95,12 @@ Certain categories, such as "Apparel" and "Nest-USA," showed consistent sales th
 
 
 
-** General Metrics
+* General Metrics
 --
 ##### Count of Gender (2):
 Dataset contains a balanced representation of male and female customers.
 
-###### Count of Locations (5):
+##### Count of Locations (5):
 5 distinct locations contributed to sales, with varying levels of engagement and purchasing behavior.
 
 ##### Count of Product Categories (16):
