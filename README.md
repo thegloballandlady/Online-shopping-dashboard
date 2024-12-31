@@ -43,9 +43,14 @@ The dataset includes the following attributes:
 
 
 
+
+
 ### Dashboard Insights
+---
+
 a. Location Analysis
 ---
+
 * Quantity by Location:
   ---
 A Table visualized the distribution of product quantities sold across locations. Certain locations showed higher demand, indicating key market areas for product sales.
@@ -54,8 +59,10 @@ A Table visualized the distribution of product quantities sold across locations.
   ---
 Total delivery charges varied significantly by location, highlighting potential areas for logistics optimization.
 
+
 b. Spend Analysis
 ---
+
 * Sum of Online Spend by Month:
   ---
 A bar chart illustrated monthly trends in online spending. Peaks in spending were observed during promotional periods or holidays.
@@ -64,8 +71,10 @@ A bar chart illustrated monthly trends in online spending. Peaks in spending wer
   ---
 Offline spending also followed a seasonal trend but was generally higher compared to online spend.
 
+
 c. Gender Insights
 ---
+
 * Quantity Sold by Gender:
   ---
 A comparative chart showed that female contributed significantly to the total quantity sold as compared to male.
@@ -74,8 +83,11 @@ A comparative chart showed that female contributed significantly to the total qu
   ---
 Female customers dominated purchases in almost all categories, showing a knowlege in our target audience to get more sales.
 
+
+
 d. Product Performance
   ---
+  
 * Trend in Sales by Product Category:
   ---
 Certain categories, such as "Apparel" and "Nest-USA," showed consistent sales throughout the year, while others like "Office" peaked during specific months.
